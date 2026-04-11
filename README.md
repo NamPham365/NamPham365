@@ -126,18 +126,6 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 - 🎓 **Master Learning Hub** — Tech Expert & Trainer at Microsoft's Global Training Partner in Vietnam
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NamPham365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NamPham365&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on projects related to **cybersecurity**, **AI transformation**, and **secure cloud adoption**. Whether you're looking to discuss the future of intelligent security, explore Microsoft 365 Copilot, or simply exchange ideas — let's connect!
@@ -145,8 +133,9 @@ I'm always open to collaborating on projects related to **cybersecurity**, **AI 
 <div align="center">
 
 📧 **Email:** [nam.phamsmc@gmail.com](mailto:nam.phamsmc@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/intphnam](https://www.linkedin.com/in/intphnam/)
-📝 **Blog:** [nampham.blog](https://nampham.blog)
+🔗 **LinkedIn:** [linkedin.com/in/nampham365](https://www.linkedin.com/in/nampham365)
+📝 **Blog:** [masterlearninghub.com](https://masterlearninghub.com/)
+📺 **vBlog:** [youtube.com/@office365vietnam](https://youtube.com/@office365vietnam)
 🐙 **GitHub:** [github.com/NamPham365](https://github.com/NamPham365)
 
 ---
