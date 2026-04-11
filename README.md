@@ -18,13 +18,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Digital Solution Engineer – Security** at **Microsoft**, covering **Vietnam & the Philippines**, with over a decade of hands-on experience in enterprise IT. My mission is clear: **empower organizations to build intelligent, AI-driven security postures** while unlocking the full potential of the Microsoft ecosystem.
+I'm a **Senior Digital Solution Engineer – Security** covering **ASEAN**, with over a decade of hands-on experience in enterprise IT. My mission is clear: **empower organizations to build intelligent, AI-driven security postures** while unlocking the full potential of the Microsoft ecosystem.
 
 I hold **Dual Microsoft MVP** recognition in **Microsoft 365 Copilot** and **Power Platform**, and I've been a **Microsoft Certified Trainer (MCT)** for **9+ consecutive years** — a journey rooted in a deep passion for teaching, mentoring, and community building.
 
 My work sits at the intersection of **cybersecurity**, **AI transformation**, and **secure modern collaboration**. Whether I'm designing Zero Trust architectures, enabling Copilot for Security workflows, or training the next generation of cloud professionals, I'm driven by the belief that **security and innovation are not trade-offs — they're multipliers**.
 
-> *"Security is not a barrier to innovation. It's the foundation that makes innovation trustworthy."*
+🔗Let’s connect if you're looking to:
+- Build cybersecurity awareness across your organization
+- Explore the responsible use of AI in security operations
+- Transform your workplace with secure-by-design solutions
 
 ---
 
