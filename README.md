@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm **Nam Pham**
 
-### 🛡️ Senior Digital Solution Engineer – Security | Microsoft MVP(dual) | MCT
+### 🛡️ Senior Solutions Consultant | Microsoft MVP(dual) | MCT
 
 *Transforming Organizations with Intelligent Security — Shaping the Next Era of Secure Work*
 
