@@ -8,7 +8,7 @@
 *Transforming Organizations with Intelligent Security — Shaping the Next Era of Secure Work*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nampham365)
-[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://masterlearninghub.com/)
+[![Blog]([https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://masterlearninghub.com/)
 [![MVP](https://img.shields.io/badge/Microsoft_MVP-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](#-honors--awards)
 [![MCT](https://img.shields.io/badge/MCT_9+_Years-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](#-certifications)
 
