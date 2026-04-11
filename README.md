@@ -115,7 +115,7 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 ### Featured Articles
 - 🔒 **Best Practice Deployment Microsoft XDR: Microsoft Defender for EndPoint, Office 365, Identity, CloudApps, Purview..** — A deep-dive operational security roadmap from tactics to execution
 - 🤖 **Knowledge Agent trong SharePoint** — Building intelligent AI assistants for content management
-- ⚙️ **Best Practices: Tối Ưu Hóa Declarative Agents** — Optimizing instructions with API Plugins in Microsoft 365 Copilot (Parts 1 & 2)
+- ⚙️ **Best Practices: Optimize Declarative Agents** — Optimizing instructions with API Plugins in Microsoft 365 Copilot (Parts 1 & 2)
 - 📚 **e-Books published on Microsoft technologies** - 5+ related to security
 
 ### Speaking Engagements
