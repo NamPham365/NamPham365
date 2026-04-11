@@ -86,7 +86,6 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 |----------|--------------|
 | **Training** | Microsoft Certified Trainer (MCT) — 9+ consecutive years |
 | **Training** | Google for Education Certified Trainers — 1+ consecutive years |
-
 | **Security** | Microsoft Certified: Cybersecurity Architect Expert |
 | **AI** | Microsoft Certified: Agentic AI Business Solutions Architect |
 | **PowerPlatform** | Microsoft Certified: Power Platform Solution Architect Expert |
@@ -114,6 +113,7 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 - 🔒 **Lộ Trình Vận Hành An Ninh Chuyên Sâu Với Microsoft Defender for Office 365** — A deep-dive operational security roadmap from tactics to execution
 - 🤖 **Knowledge Agent trong SharePoint** — Building intelligent AI assistants for content management
 - ⚙️ **Best Practices: Tối Ưu Hóa Declarative Agents** — Optimizing instructions with API Plugins in Microsoft 365 Copilot (Parts 1 & 2)
+- 📚 **e-Books published on Microsoft technologies** - 5+ related to security
 
 ### Speaking Engagements
 - 🎤 **Lead the Era of AI** — Keynote / Session Speaker
