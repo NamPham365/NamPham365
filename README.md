@@ -125,8 +125,8 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 
 ### Community & Open Source
 - 🛠️ [**PowerShell Tools for M365 User Management**](https://github.com/NamPham365) — Automating Microsoft 365 admin workflows
-- 📺 **Tech vBlog** — Video content covering Power Platform, Security, and Copilot best practices
-- 🎓 **Master Learning Hub** — Tech Expert & Trainer at Microsoft's Global Training Partner in Vietnam
+- 📺 [**Tech vBlog**](https://youtube.com/@office365vietnam) — Video content covering Power Platform, Security, and Copilot best practices
+- 🎓 [**Master Learning Hub**](https://masterlearninghub.com) — Tech Expert & Trainer at Microsoft's Global Training Partner in Vietnam
 
 ---
 ## 🤝 Let's Connect
