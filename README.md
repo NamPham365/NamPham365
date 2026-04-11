@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Digital Solution Engineer – Security** covering **ASEAN**, with over a decade of hands-on experience in enterprise IT. My mission is clear: **empower organizations to build intelligent, AI-driven security postures** while unlocking the full potential of the Microsoft ecosystem.
+I'm a **Senior Solutions Consultant**, with over a decade of hands-on experience in enterprise IT. My mission is clear: **empower organizations to build intelligent, AI-driven security postures** while unlocking the full potential of the Microsoft ecosystem.
 
 I hold **Dual Microsoft MVP** recognition in **Microsoft 365 Copilot** and **Power Platform**, and I've been a **Microsoft Certified Trainer (MCT)** for **9+ consecutive years** — a journey rooted in a deep passion for teaching, mentoring, and community building.
 
