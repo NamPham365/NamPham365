@@ -3,12 +3,12 @@
 
 # 👋 Hi, I'm **Nam Pham**
 
-### 🛡️ Senior Digital Solution Engineer – Security | Microsoft MVP | MCT
+### 🛡️ Senior Digital Solution Engineer – Security | Microsoft MVP(dual) | MCT
 
 *Transforming Organizations with Intelligent Security — Shaping the Next Era of Secure Work*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intphnam/)
-[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://nampham.blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nampham365)
+[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://masterlearninghub.com/)
 [![MVP](https://img.shields.io/badge/Microsoft_MVP-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](#-honors--awards)
 [![MCT](https://img.shields.io/badge/MCT_9+_Years-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](#-certifications)
 
@@ -132,7 +132,6 @@ I'm always open to collaborating on projects related to **cybersecurity**, **AI 
 
 <div align="center">
 
-📧 **Email:** [nam.phamsmc@gmail.com](mailto:nam.phamsmc@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/nampham365](https://www.linkedin.com/in/nampham365)
 📝 **Blog:** [masterlearninghub.com](https://masterlearninghub.com/)
 📺 **vBlog:** [youtube.com/@office365vietnam](https://youtube.com/@office365vietnam)
