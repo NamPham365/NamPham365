@@ -84,16 +84,15 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 
 | Category | Certification |
 |----------|--------------|
-| **Security** | Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) |
-| **Security** | Microsoft Certified: Security Operations Analyst Associate (SC-200) |
-| **Security** | Microsoft Certified: Information Protection and Compliance Administrator Associate (SC-400) |
-| **Microsoft 365** | Microsoft 365 Certified: Administrator Expert |
-| **Microsoft 365** | Microsoft 365 Certified: Teams Administrator Associate |
-| **Azure** | Microsoft Certified: Azure Fundamentals (AZ-900) |
-| **Azure** | Microsoft Certified: Azure Administrator Associate (AZ-104) |
 | **Training** | Microsoft Certified Trainer (MCT) — 9+ consecutive years |
+| **Training** | Google for Education Certified Trainers — 1+ consecutive years |
 
-> 💡 *Update this section with your exact certification list. The above reflects common certs aligned to your profile — adjust as needed.*
+| **Security** | Microsoft Certified: Cybersecurity Architect Expert |
+| **AI** | Microsoft Certified: Agentic AI Business Solutions Architect |
+| **PowerPlatform** | Microsoft Certified: Power Platform Solution Architect Expert |
+| **Azure** | Microsoft Certified: Azure Solutions Architect Expert |
+| **Microsoft 365** | Microsoft 365 Certified: Administrator Expert |
+| **AWS** | AWS Certified Solutions Architect – Professional |
 
 ---
 
@@ -104,7 +103,7 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 | 2024–2025 | **Dual Microsoft MVP** — Microsoft 365 Copilot & Power Platform | Microsoft |
 | 2024–2025 | **Platinum Club** Member | Microsoft |
 | 2016–2020 | **Microsoft Learn Student Ambassador** (formerly Microsoft Student Partner) | Microsoft |
-| Ongoing | **Microsoft Certified Trainer (MCT)** — 9+ consecutive years | Microsoft |
+| Ongoing | **Microsoft Certified Trainer (MCT)** - 9+ consecutive years (trained 5000+ students) | Microsoft |
 | During COVID-19 | Built a **1,900+ school leader community** to support Vietnam's digital education transformation | Community Initiative |
 
 ---
@@ -122,7 +121,7 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 - 🗓️ **AI Fridays** — Weekly AI Knowledge Sharing Sessions
 
 ### Community & Open Source
-- 🛠️ [**PowerShell Tools for M365 User Management**](https://github.com/intphnam) — Automating Microsoft 365 admin workflows
+- 🛠️ [**PowerShell Tools for M365 User Management**](https://github.com/NamPham365) — Automating Microsoft 365 admin workflows
 - 📺 **Tech vBlog** — Video content covering Power Platform, Security, and Copilot best practices
 - 🎓 **Master Learning Hub** — Tech Expert & Trainer at Microsoft's Global Training Partner in Vietnam
 
@@ -132,8 +131,8 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=intphnam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=intphnam&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NamPham365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NamPham365&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -148,6 +147,7 @@ I'm always open to collaborating on projects related to **cybersecurity**, **AI 
 📧 **Email:** [nam.phamsmc@gmail.com](mailto:nam.phamsmc@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/intphnam](https://www.linkedin.com/in/intphnam/)
 📝 **Blog:** [nampham.blog](https://nampham.blog)
+🐙 **GitHub:** [github.com/NamPham365](https://github.com/NamPham365)
 
 ---
 
