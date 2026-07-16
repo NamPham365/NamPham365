@@ -106,7 +106,7 @@ My work sits at the intersection of **cybersecurity**, **AI transformation**, an
 
 | Year | Award | Organization |
 |------|-------|-------------|
-| 2024–2025 | **Dual Microsoft MVP** — Microsoft 365 Copilot & Power Platform | Microsoft |
+| 2025–Present | **Dual Microsoft MVP** — Microsoft 365 Copilot & SIEM & XDR | Microsoft |
 | 2024–2025 | **Platinum Club** Member | Microsoft |
 | 2016–2020 | **Microsoft Learn Student Ambassador** (formerly Microsoft Student Partner) | Microsoft |
 | Ongoing | **Microsoft Certified Trainer (MCT)** - 9+ consecutive years (trained 5000+ students) | Microsoft |
