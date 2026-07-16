@@ -18,16 +18,20 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Senior Solutions Consultant**, with over a decade of hands-on experience in enterprise IT. My mission is clear: **empower organizations to build intelligent, AI-driven security postures** while unlocking the full potential of the Microsoft ecosystem.
+I'm a **Senior Solutions Consultant**, with over a decade of hands-on experience in enterprise IT. My mission is clear: **empower organizations to build intelligent, AI-driven security postures** while unlocking the full potential of the Microsoft ecosystem. 
 
-I hold **Dual Microsoft MVP** recognition in **Microsoft 365 Copilot** and **Power Platform**, and I've been a **Microsoft Certified Trainer (MCT)** for **9+ consecutive years** — a journey rooted in a deep passion for teaching, mentoring, and community building.
+I am proud to be recognized as a **Microsoft Most Valuable Professional (MVP)**, awarded for my contributions in:
+*   **Microsoft 365 Copilot**
+*   **SIEM & XDR** (Microsoft Sentinel & Microsoft Defender XDR suite)
+
+Additionally, I have been a **Microsoft Certified Trainer (MCT) for 9+ consecutive years** — a journey rooted in a deep passion for teaching, mentoring, and community building.
 
 My work sits at the intersection of **cybersecurity**, **AI transformation**, and **secure modern collaboration**. Whether I'm designing Zero Trust architectures, enabling Copilot for Security workflows, or training the next generation of cloud professionals, I'm driven by the belief that **security and innovation are not trade-offs — they're multipliers**.
 
-🔗Let’s connect if you're looking to:
-- Build cybersecurity awareness across your organization
-- Explore the responsible use of AI in security operations
-- Transform your workplace with secure-by-design solutions
+🔗 Let’s connect if you're looking to:
+*   Build cybersecurity awareness across your organization
+*   Explore the responsible use of AI in security operations
+*   Transform your workplace with secure-by-design solutions
 
 ---
 
